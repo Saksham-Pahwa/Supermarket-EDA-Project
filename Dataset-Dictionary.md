@@ -1,6 +1,6 @@
 # Supermarket Sales Data Compendium
 
-This dataset contains sales data from a supermarket with three branches. Below are the details of each column in the dataset.
+This dataset contains sales data from a supermarket with three branches which are Yangon,Mandalay,Naypyitaw. Below are the details of each column in the dataset.
 
 ## Columns Description
 
